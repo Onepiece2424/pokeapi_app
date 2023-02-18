@@ -5,7 +5,7 @@ class PokemonsController < ApplicationController
     if raw_response.status == 200
       @response = JSON.parse(raw_response.body)
     else
-      redirect_to pokemons_path, notice: "#{raw_response.status}エラー！"
+      redirect_to pokemons_path, notice: "そのポケモンは存在しません"
     end
   end
 
