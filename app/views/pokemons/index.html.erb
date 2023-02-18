@@ -1,5 +1,7 @@
-<h1>Pokemon</h1>
+<h3>Pokemon</h3>
+<%= render "shared/search", { path: pokemons_path } %>
 <div>
+  <% if @response.present? %>
   <table>
     <tr>
       <td>No.</td>
@@ -11,4 +13,7 @@
     </tr>
   </table>
   <%= image_tag(@response["sprites"]["front_default"], size: "200") %>
+  <% else %>
+    <p>検索してね！</p>
+  <% end %>
 </div>
