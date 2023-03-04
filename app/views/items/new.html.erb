@@ -1,0 +1,14 @@
+<h1>Item</h1>
+<div>
+  <table>
+    <tr>
+      <td>No.</td>
+      <td><%= @response["id"] %></td>
+    </tr>
+    <tr>
+      <td>Name:</td>
+      <td><%= @response["name"] %></td>
+    </tr>
+  </table>
+  <%= image_tag(@response["sprites"]["default"], size: "100") %>
+</div>
