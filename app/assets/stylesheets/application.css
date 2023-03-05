@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+ .App {
+  text-align: center;
+ }
+
+ table {
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ /* まとめて指定する場合 */
+ table {
+   margin: 3px auto;
+   /* 上下3px 左右auto */
+ }
