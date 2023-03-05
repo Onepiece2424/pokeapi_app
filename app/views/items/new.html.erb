@@ -2,6 +2,7 @@
 <%= render "shared/search", { path: new_item_path } %>
 <div>
   <% if @item.present? %>
+  <%= render "shared/error_messages", { object: @item } %>
     <table>
       <tr>
         <td>No.</td>
@@ -13,6 +14,13 @@
       </tr>
     </table>
     <%= image_tag(@item.image_url, size: "100") %>
+
+    <%= form_with model: @item, local: true do |f| %>
+      <%= f.hidden_field :item_id  %>
+      <%= f.hidden_field :name %>
+      <%= f.hidden_field :image_url %>
+      <%= f.submit 'ゲット', name: nil %>
+    <% end %>
   <% else %>
     <p>検索してね！</p>
   <% end %>

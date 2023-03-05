@@ -1,0 +1,15 @@
+<h1>Item</h1>
+<%= render "shared/search", { path: new_item_path } %>
+<div>
+  <% if @items.present? %>
+    <% @items.each do |item| %>
+      <div style="display: inline-block;">
+        No. <%= item.item_id %>,
+        Name: <%= item.name %>
+        <div>
+          <%= image_tag(item.image_url, size: "100") %>
+        </div>
+      </div>
+    <% end %>
+  <% end %>
+</div>
