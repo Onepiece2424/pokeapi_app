@@ -1506,5 +1506,345 @@
   {
     "ja": "ジェットボール",
     "en": ""
+  },
+  {
+    "ja": "",
+    "en": ""
+  },
+  {
+    "ja": "キズぐすり",
+    "en": "Potion"
+  },
+  {
+    "ja": "どくけし",
+    "en": "Antidote"
+  },
+  {
+    "ja": "やけどなおし",
+    "en": "Burn Heal"
+  },
+  {
+    "ja": "こおりなおし",
+    "en": "Ice Heal"
+  },
+  {
+    "ja": "ねむけざまし",
+    "en": "Awakening"
+  },
+  {
+    "ja": "まひなおし",
+    "en": "Parlyz Heal"
+  },
+  {
+    "ja": "かいふくのくすり",
+    "en": "Full Restore"
+  },
+  {
+    "ja": "まんたんのくすり",
+    "en": "Max Potion"
+  },
+  {
+    "ja": "すごいキズぐすり",
+    "en": "Hyper Potion"
+  },
+  {
+    "ja": "いいキズぐすり",
+    "en": "Super Potion"
+  },
+  {
+    "ja": "なんでもなおし",
+    "en": "Full Heal"
+  },
+  {
+    "ja": "げんきのかけら",
+    "en": "Revive"
+  },
+  {
+    "ja": "げんきのかたまり",
+    "en": "Max Revive"
+  },
+  {
+    "ja": "おいしいみず",
+    "en": "Fresh Water"
+  },
+  {
+    "ja": "サイコソーダ",
+    "en": "Soda Pop"
+  },
+  {
+    "ja": "ミックスオレ",
+    "en": "Lemonade"
+  },
+  {
+    "ja": "ピーピーエイド",
+    "en": "Ether"
+  },
+  {
+    "ja": "ピーピーリカバー",
+    "en": "Max Ether"
+  },
+  {
+    "ja": "ピーピーエイダー",
+    "en": "Elixir"
+  },
+  {
+    "ja": "ピーピーマックス",
+    "en": "Max Elixir"
+  },
+  {
+    "ja": "モーモーミルク",
+    "en": "Moomoo Milk"
+  },
+  {
+    "ja": "ちからのこな",
+    "en": "Energy Powder"
+  },
+  {
+    "ja": "ちからのねっこ",
+    "en": "Energy Root"
+  },
+  {
+    "ja": "ばんのうごな",
+    "en": "Heal Powder"
+  },
+  {
+    "ja": "ふっかつそう",
+    "en": "Revival Herb"
+  },
+  {
+    "ja": "せいなるはい",
+    "en": "Sacred Ash"
+  },
+  {
+    "ja": "いかりまんじゅう",
+    "en": "Rage Candy Bar"
+  },
+  {
+    "ja": "フエンせんべい",
+    "en": "Lava Cookie"
+  },
+  {
+    "ja": "きのみジュース",
+    "en": "Berry Juice"
+  },
+  {
+    "ja": "マックスアップ",
+    "en": "HP Up"
+  },
+  {
+    "ja": "タウリン",
+    "en": "Protein"
+  },
+  {
+    "ja": "ブロムヘキシン",
+    "en": "Iron"
+  },
+  {
+    "ja": "インドメタシン",
+    "en": "Carbos"
+  },
+  {
+    "ja": "リゾチウム",
+    "en": "Calcium"
+  },
+  {
+    "ja": "ふしぎなアメ",
+    "en": "Rare Candy"
+  },
+  {
+    "ja": "ポイントアップ",
+    "en": "PP Up"
+  },
+  {
+    "ja": "キトサン",
+    "en": "Zinc"
+  },
+  {
+    "ja": "ポイントマックス",
+    "en": "PP Max"
+  },
+  {
+    "ja": "もりのヨウカン",
+    "en": "Old Gateau"
+  },
+  {
+    "ja": "ハートスイーツ",
+    "en": "Sweet Heart"
+  },
+  {
+    "ja": "たいりょくのハネ",
+    "en": "Health Wing"
+  },
+  {
+    "ja": "きんりょくのハネ",
+    "en": "Muscle Wing"
+  },
+  {
+    "ja": "ていこうのハネ",
+    "en": "Resist Wing"
+  },
+  {
+    "ja": "ちりょくのハネ",
+    "en": "Genius Wing"
+  },
+  {
+    "ja": "せいしんのハネ",
+    "en": "Clever Wing"
+  },
+  {
+    "ja": "しゅんぱつのハネ",
+    "en": "Swift Wing"
+  },
+  {
+    "ja": "ヒウンアイス",
+    "en": "Casteliacone"
+  },
+  {
+    "ja": "ミアレガレット",
+    "en": "Lumiose Galette"
+  },
+  {
+    "ja": "シャラサブレ",
+    "en": "Shalour Sable"
+  },
+  {
+    "ja": "おおきいマラサダ",
+    "en": "Big Malasada"
+  },
+  {
+    "ja": "HPかいふくポン",
+    "en": "Roto HP Restore"
+  },
+  {
+    "ja": "PPかいふくポン",
+    "en": "Roto PP Restore"
+  },
+  {
+    "ja": "ニビあられ",
+    "en": "Pewter Crunchies"
+  },
+  {
+    "ja": "ダイミツ",
+    "en": "Max Honey"
+  },
+  {
+    "ja": "コトブキマフィン",
+    "en": "Jubilife Muffin"
+  },
+  {
+    "ja": "カンポーやく",
+    "en": "Remedy"
+  },
+  {
+    "ja": "いいカンポーやく",
+    "en": "Fine Remedy"
+  },
+  {
+    "ja": "すごいカンポーやく",
+    "en": ""
+  },
+  {
+    "ja": "",
+    "en": ""
+  },
+  {
+    "ja": "あらびきヴルスト",
+    "en": "Sausages"
+  },
+  {
+    "ja": "ボブのかんづめ",
+    "en": "Bob's Food Tin"
+  },
+  {
+    "ja": "バックのかんづめ",
+    "en": "Bach's Food Tin"
+  },
+  {
+    "ja": "マメかん",
+    "en": "Tin of Beans"
+  },
+  {
+    "ja": "しょくパン",
+    "en": "Bread"
+  },
+  {
+    "ja": "パスタ",
+    "en": "Pasta"
+  },
+  {
+    "ja": "キノコパック",
+    "en": "Mixed Mushrooms"
+  },
+  {
+    "ja": "しっぽのくんせい",
+    "en": "Smoke-Poke Tail"
+  },
+  {
+    "ja": "ふといながねぎ",
+    "en": "Large Leek"
+  },
+  {
+    "ja": "とくせんリンゴ",
+    "en": "Fancy Apple"
+  },
+  {
+    "ja": "かぼそいホネ",
+    "en": "Brittle Bones"
+  },
+  {
+    "ja": "ポテトパック",
+    "en": "Pack of Potatoes"
+  },
+  {
+    "ja": "みずべのハーブ",
+    "en": "Pungent Root"
+  },
+  {
+    "ja": "やさいパック",
+    "en": "Salad Mix"
+  },
+  {
+    "ja": "フライもりあわせ",
+    "en": "Fried Food"
+  },
+  {
+    "ja": "ゆでタマゴ",
+    "en": "Boiled Egg"
+  },
+  {
+    "ja": "フサパック",
+    "en": "Fruit Bunch"
+  },
+  {
+    "ja": "モーモーチーズ",
+    "en": "Moomoo Cheese"
+  },
+  {
+    "ja": "スパイスセット",
+    "en": "Spice Mix"
+  },
+  {
+    "ja": "しんせんクリーム",
+    "en": "Fresh Cream"
+  },
+  {
+    "ja": "レトルトカレー",
+    "en": "Packaged Curry"
+  },
+  {
+    "ja": "ヤシのミルク",
+    "en": "Coconut Milk"
+  },
+  {
+    "ja": "レトルトめん",
+    "en": "Instant Noodles"
+  },
+  {
+    "ja": "レトルトバーグ",
+    "en": "Precooked Burger"
+  },
+  {
+    "ja": "キョダイパウダー",
+    "en": ""
   }
 ]
