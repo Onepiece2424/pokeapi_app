@@ -1,14 +1,19 @@
 <h1>Item</h1>
+<%= render "shared/itemsearch", { path: new_item_path } %>
 <div>
-  <table>
-    <tr>
-      <td>No.</td>
-      <td><%= @response["id"] %></td>
-    </tr>
-    <tr>
-      <td>Name:</td>
-      <td><%= @response["name"] %></td>
-    </tr>
-  </table>
-  <%= image_tag(@response["sprites"]["default"], size: "100") %>
+  <% if @item.present? %>
+    <table>
+      <tr>
+        <td>No.</td>
+        <td><%= @item["id"] %></td>
+      </tr>
+      <tr>
+        <td>Name:</td>
+        <td><%= @item["name"] %></td>
+      </tr>
+    </table>
+    <%= image_tag(@item["sprites"]["default"], size: "100") %>
+  <% else %>
+    <p>検索してね！</p>
+  <% end %>
 </div>

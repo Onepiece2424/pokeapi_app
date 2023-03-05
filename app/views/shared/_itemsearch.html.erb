@@ -1,0 +1,6 @@
+<div style="margin-bottom: 50px;">
+  <%= form_with url: path, method: :get, local: true do |form| %>
+    <%= form.text_field :search %>
+    <%= form.submit '検索', name: nil %>
+  <% end %>
+</div>
