@@ -1,6 +1,6 @@
 <h3>Pokemon</h3>
 <div>「ポケモンNo.」を入力していください。</div>
-<%= render "shared/search", { path: new_pokemon_path } %>
+<%= render "shared/search", { path: search_path } %>
 <div>
   <% if @pokemons.present? %>
     <% @pokemons.each do |pokemon| %>
