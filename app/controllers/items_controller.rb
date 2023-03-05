@@ -25,10 +25,20 @@ class ItemsController < ApplicationController
   end
 
   def item_search
-    raw_response = Faraday.get "https://pokeapi.co/api/v2/item/#{params[:search]}"
-    response = JSON.parse(raw_response.body)
-    @item = Item.new(item_id: response["id"], name: response["name"], image_url: response["sprites"]["default"])
-    binding.pry
+    @search = params[:search]
+    File.open("item.json") do |file|
+      json = JSON.load(file)
+      result = json.select { |x| x["ja"].include?(@search) }
+
+      if result.present?
+        val = result[0]["en"].downcase.gsub(' ', '-')
+        raw_response = Faraday.get "https://pokeapi.co/api/v2/item/#{val}"
+        response = JSON.parse(raw_response.body)
+        @item = Item.new(item_id: response["id"], name: response["names"][0]["name"], image_url: response["sprites"]["default"])
+      else
+        redirect_to items_path
+      end
+    end
   end
 
   private

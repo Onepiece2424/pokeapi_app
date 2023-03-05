@@ -1,0 +1,870 @@
+[
+  {
+    "ja": "むしよけスプレー",
+    "en": "repel"
+  },
+  {
+    "ja": "シルバースプレー",
+    "en": "super-repel"
+  },
+  {
+    "ja": "ゴールドスプレー",
+    "en": "max-repel"
+  },
+  {
+    "ja": "あなぬけのヒモ",
+    "en": "escape-rope"
+  },
+  {
+    "ja": "くろいビードロ",
+    "en": "black-flute"
+  },
+  {
+    "ja": "しろいビードロ",
+    "en": "white-flute"
+  },
+  {
+    "ja": "あさせのしお",
+    "en": "shoal-salt"
+  },
+  {
+    "ja": "あさせのかいがら",
+    "en": "shoal-shell"
+  },
+  {
+    "ja": "ハートのウロコ",
+    "en": "heart-scale"
+  },
+  {
+    "ja": "あかいかけら",
+    "en": "red-shard"
+  },
+  {
+    "ja": "あおいかけら",
+    "en": "blue-shard"
+  },
+  {
+    "ja": "きいろいかけら",
+    "en": "yellow-shard"
+  },
+  {
+    "ja": "みどりのかけら",
+    "en": "green-shard"
+  },
+  {
+    "ja": "がくしゅうそうち",
+    "en": "Exp. Share"
+  },
+  {
+    "ja": "きのはこ",
+    "en": "normal-box"
+  },
+  {
+    "ja": "きりのはこ",
+    "en": "gorgeous-box"
+  },
+  {
+    "ja": "おいしいシッポ",
+    "en": "SlowpokeTail"
+  },
+  {
+    "ja": "あまいミツ",
+    "en": "Honey"
+  },
+  {
+    "ja": "ときのふえ",
+    "en": "Time Flute"
+  },
+  {
+    "ja": "ポケまんま",
+    "en": "Poké Snack"
+  },
+  {
+    "ja": "すくすくこやし",
+    "en": "Growth Mulch"
+  },
+  {
+    "ja": "じめじめこやし",
+    "en": "Damp Mulch"
+  },
+  {
+    "ja": "ながながこやし",
+    "en": "Stable Mulch"
+  },
+  {
+    "ja": "ねばねばこやし",
+    "en": "Gooey Mulch"
+  },
+  {
+    "ja": "ねっこのカセキ",
+    "en": "Root Fossil"
+  },
+  {
+    "ja": "ツメのカセキ",
+    "en": "Claw Fossil"
+  },
+  {
+    "ja": "かいのカセキ",
+    "en": "Helix Fossil"
+  },
+  {
+    "ja": "こうらのカセキ",
+    "en": "Dome Fossil"
+  },
+  {
+    "ja": "ひみつのコハク",
+    "en": "Old Amber"
+  },
+  {
+    "ja": "たてのカセキ",
+    "en": "Armor Fossil"
+  },
+  {
+    "ja": "ずがいのカセキ",
+    "en": "Skull Fossil"
+  },
+  {
+    "ja": "かなめいし",
+    "en": "Odd Keystone"
+  },
+  {
+    "ja": "ふたのカセキ",
+    "en": "Cover Fossil"
+  },
+  {
+    "ja": "はねのカセキ",
+    "en": "Plume Fossil"
+  },
+  {
+    "ja": "デルダマ",
+    "en": "Pass Orb"
+  },
+  {
+    "ja": "とくせいカプセル",
+    "en": "Ability Capsule"
+  },
+  {
+    "ja": "たわわこやし",
+    "en": "Rich Mulch"
+  },
+  {
+    "ja": "びっくりこやし",
+    "en": "Surprise Mulch"
+  },
+  {
+    "ja": "ぐんぐんこやし",
+    "en": "Boost Mulch"
+  },
+  {
+    "ja": "とんでもこやし",
+    "en": "Amaze Mulch"
+  },
+  {
+    "ja": "バーゲンチケット",
+    "en": "Discount Coupon"
+  },
+  {
+    "ja": "ふしぎなおきもの",
+    "en": "Strange Souvenir"
+  },
+  {
+    "ja": "アゴのカセキ",
+    "en": "Jaw Fossil"
+  },
+  {
+    "ja": "ヒレのカセキ",
+    "en": "Sail Fossil"
+  },
+  {
+    "ja": "やまぶきのミツ",
+    "en": "Yellow Nectar"
+  },
+  {
+    "ja": "うすもものミツ",
+    "en": "Pink Nectar"
+  },
+  {
+    "ja": "くれないのミツ",
+    "en": "Red Nectar"
+  },
+  {
+    "ja": "むらさきのミツ",
+    "en": "Purple Nectar"
+  },
+  {
+    "ja": "フェスチケット",
+    "en": "Festival Ticket"
+  },
+  {
+    "ja": "きんのおうかん",
+    "en": "Gold Bottle Cap"
+  },
+  {
+    "ja": "ぎんのおうかん",
+    "en": "Bottle Cap"
+  },
+  {
+    "ja": "タマゴふかポン",
+    "en": "Roto Hatch"
+  },
+  {
+    "ja": "やすうりポン",
+    "en": "Roto Bargain"
+  },
+  {
+    "ja": "おこづかいポン",
+    "en": "Roto Prize Money"
+  },
+  {
+    "ja": "けいけんポン",
+    "en": "Roto Exp. Points"
+  },
+  {
+    "ja": "なつきポン",
+    "en": "Roto Friendship"
+  },
+  {
+    "ja": "みっけポン",
+    "en": "Roto Encounter"
+  },
+  {
+    "ja": "かくれポン",
+    "en": "Roto Stealth"
+  },
+  {
+    "ja": "むしよせコロン",
+    "en": "Lure"
+  },
+  {
+    "ja": "シルバーコロン",
+    "en": "Super Lure"
+  },
+  {
+    "ja": "ゴールドコロン",
+    "en": "Max Lure"
+  },
+  {
+    "ja": "ぎんのズリのみ",
+    "en": "Silver Razz Berry"
+  },
+  {
+    "ja": "きんのズリのみ",
+    "en": "Golden Razz Berry"
+  },
+  {
+    "ja": "ぎんのナナのみ",
+    "en": "Silver Nanab Berry"
+  },
+  {
+    "ja": "きんのナナのみ",
+    "en": "Golden Nanab Berry"
+  },
+  {
+    "ja": "ぎんのパイルのみ",
+    "en": "Silver Pinap Berry"
+  },
+  {
+    "ja": "きんのパイルのみ",
+    "en": "Golden Pinap Berry"
+  },
+  {
+    "ja": "うみべのガラス",
+    "en": "Beach Glass"
+  },
+  {
+    "ja": "かたっぽピアス",
+    "en": "Lone Earring"
+  },
+  {
+    "ja": "このはのおてがみ",
+    "en": "Leaf Letter"
+  },
+  {
+    "ja": "ちいさなはなたば",
+    "en": "Small Bouquet"
+  },
+  {
+    "ja": "チョークいし",
+    "en": "Chalky Stone"
+  },
+  {
+    "ja": "なんごくかいがら",
+    "en": "Tropical Shell"
+  },
+  {
+    "ja": "のびたバネ",
+    "en": "Stretchy Spring"
+  },
+  {
+    "ja": "ビーだま",
+    "en": "Marble"
+  },
+  {
+    "ja": "ピカピカだんご",
+    "en": "Polished Mud Ball"
+  },
+  {
+    "ja": "ねがいのかたまり",
+    "en": "Wishing Piece"
+  },
+  {
+    "ja": "ダイクリスタル",
+    "en": "Dynamax Crystal"
+  },
+  {
+    "ja": "ダイマックスアメ",
+    "en": "Dynamax Candy"
+  },
+  {
+    "ja": "けいけんアメXS",
+    "en": "Exp. Candy XS"
+  },
+  {
+    "ja": "けいけんアメS",
+    "en": "Exp. Candy S"
+  },
+  {
+    "ja": "けいけんアメM",
+    "en": "Exp. Candy M"
+  },
+  {
+    "ja": "けいけんアメL",
+    "en": "Exp. Candy L"
+  },
+  {
+    "ja": "けいけんアメXL",
+    "en": "Exp. Candy XL"
+  },
+  {
+    "ja": "さみしがりミント",
+    "en": "Lonely Mint"
+  },
+  {
+    "ja": "いじっぱりミント",
+    "en": "Adamant Mint"
+  },
+  {
+    "ja": "やんちゃミント",
+    "en": "Naughty Mint"
+  },
+  {
+    "ja": "ゆうかんミント",
+    "en": "Brave Mint"
+  },
+  {
+    "ja": "ずぶといミント",
+    "en": "Bold Mint"
+  },
+  {
+    "ja": "わんぱくミント",
+    "en": "Impish Mint"
+  },
+  {
+    "ja": "のうてんきミント",
+    "en": "Lax Mint"
+  },
+  {
+    "ja": "のんきミント",
+    "en": "Relaxed Mint"
+  },
+  {
+    "ja": "ひかえめミント",
+    "en": "Modest Mint"
+  },
+  {
+    "ja": "おっとりミント",
+    "en": "Mild Mint"
+  },
+  {
+    "ja": "うっかりやミント",
+    "en": "Rash Mint"
+  },
+  {
+    "ja": "れいせいミント",
+    "en": "Quiet Mint"
+  },
+  {
+    "ja": "おだやかミント",
+    "en": "Calm Mint"
+  },
+  {
+    "ja": "おとなしいミント",
+    "en": "Gentle Mint"
+  },
+  {
+    "ja": "しんちょうミント",
+    "en": "Careful Mint"
+  },
+  {
+    "ja": "なまいきミント",
+    "en": "Sassy Mint"
+  },
+  {
+    "ja": "おくびょうミント",
+    "en": "Timid Mint"
+  },
+  {
+    "ja": "せっかちミント",
+    "en": "Hasty Mint"
+  },
+  {
+    "ja": "ようきミント",
+    "en": "Jolly Mint"
+  },
+  {
+    "ja": "むじゃきミント",
+    "en": "Naive Mint"
+  },
+  {
+    "ja": "まじめミント",
+    "en": "Serious Mint"
+  },
+  {
+    "ja": "カセキのトリ",
+    "en": "Fossilized Bird"
+  },
+  {
+    "ja": "カセキのサカナ",
+    "en": "Fossilized Fish"
+  },
+  {
+    "ja": "カセキのリュウ",
+    "en": "Fossilized Drake"
+  },
+  {
+    "ja": "カセキのクビナガ",
+    "en": "Fossilized Dino"
+  },
+  {
+    "ja": "ガラナツのえだ",
+    "en": "Galarica Twig"
+  },
+  {
+    "ja": "ヨロイこうせき",
+    "en": "Armorite Ore"
+  },
+  {
+    "ja": "あかぼんぐり",
+    "en": "Red Apricorn"
+  },
+  {
+    "ja": "あおぼんぐり",
+    "en": "Blue Apricorn"
+  },
+  {
+    "ja": "きぼんぐり",
+    "en": "Yellow Apricorn"
+  },
+  {
+    "ja": "みどぼんぐり",
+    "en": "Green Apricorn"
+  },
+  {
+    "ja": "ももぼんぐり",
+    "en": "Pink Apricorn"
+  },
+  {
+    "ja": "しろぼんぐり",
+    "en": "White Apricorn"
+  },
+  {
+    "ja": "くろぼんぐり",
+    "en": "Black Apricorn"
+  },
+  {
+    "ja": "とくせいパッチ",
+    "en": "Ability Patch"
+  },
+  {
+    "ja": "マックスこうせき",
+    "en": "Dynite Ore"
+  },
+  {
+    "ja": "なぞのかけらS",
+    "en": "Mysterious Shard S"
+  },
+  {
+    "ja": "なぞのかけらL",
+    "en": "Mysterious Shard L"
+  },
+  {
+    "ja": "みちびきのせきばん",
+    "en": "Discovery Slate"
+  },
+  {
+    "ja": "ジョウトのせきばん",
+    "en": "Johto Slate"
+  },
+  {
+    "ja": "カントーのせきばん",
+    "en": "Kanto Slate"
+  },
+  {
+    "ja": "こころのせきばん",
+    "en": "Soul Slate"
+  },
+  {
+    "ja": "にじのせきばん",
+    "en": "Rainbow Slate"
+  },
+  {
+    "ja": "あらしのせきばん",
+    "en": "Squall Slate"
+  },
+  {
+    "ja": "たいかいのせきばん",
+    "en": "Oceanic Slate"
+  },
+  {
+    "ja": "たいりくのせきばん",
+    "en": "Tectonic Slate"
+  },
+  {
+    "ja": "てんくうのせきばん",
+    "en": "Stratospheric Slate"
+  },
+  {
+    "ja": "いでんしのせきばん",
+    "en": "Genome Slate"
+  },
+  {
+    "ja": "やぶれたせきばん",
+    "en": "Distortion Slate"
+  },
+  {
+    "ja": "せめのがんやく",
+    "en": "Aux Power"
+  },
+  {
+    "ja": "まもりのがんやく",
+    "en": "Aux Guard"
+  },
+  {
+    "ja": "ヨクアタラーヌ",
+    "en": "Aux Evasion"
+  },
+  {
+    "ja": "マルチアップ",
+    "en": "Aux Powerguard"
+  },
+  {
+    "ja": "こだわりちまき",
+    "en": "Choice Dumpling"
+  },
+  {
+    "ja": "にばいづけ",
+    "en": "Twice-Spiced Radish"
+  },
+  {
+    "ja": "あべこべやき",
+    "en": "Swap Snack"
+  },
+  {
+    "ja": "ひそやかスプレー",
+    "en": "Stealth Spray"
+  },
+  {
+    "ja": "キノコよせだま",
+    "en": "Mushroom Cake"
+  },
+  {
+    "ja": "ミツよせだま",
+    "en": "Honey Cake"
+  },
+  {
+    "ja": "イナホよせだま",
+    "en": "Grain Cake"
+  },
+  {
+    "ja": "マメよせだま",
+    "en": "Bean Cake"
+  },
+  {
+    "ja": "ミネラルよせだま",
+    "en": "Salt Cake"
+  },
+  {
+    "ja": "めかくしだま",
+    "en": "Smoke Bomb"
+  },
+  {
+    "ja": "ばりばりだま",
+    "en": "Scatter Bang"
+  },
+  {
+    "ja": "ねばりだま",
+    "en": "Sticky Glob"
+  },
+  {
+    "ja": "どろだんご",
+    "en": "Ball of Mud"
+  },
+  {
+    "ja": "むしくいぼんぐり",
+    "en": "Spoiled Apricorn"
+  },
+  {
+    "ja": "ゆきだま",
+    "en": "Snowball"
+  },
+  {
+    "ja": "もちもちキノコ",
+    "en": "Springy Mushroom"
+  },
+  {
+    "ja": "きらきらミツ",
+    "en": "Dazzling Honey"
+  },
+  {
+    "ja": "いきいきイナホ",
+    "en": "Hearty Grains"
+  },
+  {
+    "ja": "ころころマメ",
+    "en": "Plump Beans"
+  },
+  {
+    "ja": "ごりごりミネラル",
+    "en": "Crunchy Salt"
+  },
+  {
+    "ja": "ぼんぐりのみ",
+    "en": "Apricorn"
+  },
+  {
+    "ja": "たまいし",
+    "en": "Tumblestone"
+  },
+  {
+    "ja": "くろいろたまいし",
+    "en": "Black Tumblestone"
+  },
+  {
+    "ja": "そらいろたまいし",
+    "en": "Sky Tumblestone"
+  },
+  {
+    "ja": "てつのかけら",
+    "en": "Iron Chunk"
+  },
+  {
+    "ja": "カゲブンシメジ",
+    "en": "Doppel Bonnets"
+  },
+  {
+    "ja": "キュウショウロ",
+    "en": "Direshroom"
+  },
+  {
+    "ja": "キングリーフ",
+    "en": "King's Leaf"
+  },
+  {
+    "ja": "クスリソウ",
+    "en": "Medicinal Leek"
+  },
+  {
+    "ja": "ケムリイモ",
+    "en": "Sootfoot Root"
+  },
+  {
+    "ja": "ゲンキノツボミ",
+    "en": "Vivichoke"
+  },
+  {
+    "ja": "スイートトリュフ",
+    "en": "Candy Truffle"
+  },
+  {
+    "ja": "スナハマダイコン",
+    "en": "Sand Radish"
+  },
+  {
+    "ja": "タマゼンマイ",
+    "en": "Caster Fern"
+  },
+  {
+    "ja": "ツルギマイタケ",
+    "en": "Swordcap"
+  },
+  {
+    "ja": "テッペキクラゲ",
+    "en": "Iron Barktongue"
+  },
+  {
+    "ja": "バリバリモ",
+    "en": "Pop Pod"
+  },
+  {
+    "ja": "ピーピーグサ",
+    "en": "Pep-Up Plant"
+  },
+  {
+    "ja": "ムシヨケソウ",
+    "en": "Bugwort"
+  },
+  {
+    "ja": "もくざい",
+    "en": "Wood"
+  },
+  {
+    "ja": "よせだまのもと",
+    "en": "Cake-Lure Base"
+  },
+  {
+    "ja": "ガンバリのすな",
+    "en": "Grit Dust"
+  },
+  {
+    "ja": "ガンバリのじゃり",
+    "en": "Grit Gravel"
+  },
+  {
+    "ja": "ガンバリのいし",
+    "en": "Grit Pebble"
+  },
+  {
+    "ja": "ガンバリのいわ",
+    "en": "Grit Rock"
+  },
+  {
+    "ja": "かいでんのタネ",
+    "en": "Seed of Mastery"
+  },
+  {
+    "ja": "みがわりおまもり1",
+    "en": "Tempting Charm R"
+  },
+  {
+    "ja": "みがわりおまもり2",
+    "en": "Tempting Charm B"
+  },
+  {
+    "ja": "みがわりおまもり3",
+    "en": "Tempting Charm P"
+  },
+  {
+    "ja": "みがわりおまもり4",
+    "en": "Tempting Charm T"
+  },
+  {
+    "ja": "みがわりおまもり5",
+    "en": "Tempting Charm Y"
+  },
+  {
+    "ja": "あんぜんおまもり1",
+    "en": "Survival Charm R"
+  },
+  {
+    "ja": "あんぜんおまもり2",
+    "en": "Survival Charm B"
+  },
+  {
+    "ja": "あんぜんおまもり3",
+    "en": "Survival Charm P"
+  },
+  {
+    "ja": "あんぜんおまもり4",
+    "en": "Survival Charm T"
+  },
+  {
+    "ja": "あんぜんおまもり5",
+    "en": "Survival Charm Y"
+  },
+  {
+    "ja": "けんこうおまもり1",
+    "en": "Warding Charm R"
+  },
+  {
+    "ja": "けんこうおまもり2",
+    "en": "Warding Charm B"
+  },
+  {
+    "ja": "けんこうおまもり3",
+    "en": "Warding Charm P"
+  },
+  {
+    "ja": "けんこうおまもり4",
+    "en": "Warding Charm T"
+  },
+  {
+    "ja": "けんこうおまもり5",
+    "en": "Warding Charm Y"
+  },
+  {
+    "ja": "かしらのしるし",
+    "en": "Leader's Crest"
+  },
+  {
+    "ja": "テラピースノーマル",
+    "en": "Normal Tera Shard"
+  },
+  {
+    "ja": "テラピースほのお",
+    "en": "Fire Tera Shard"
+  },
+  {
+    "ja": "テラピースみず",
+    "en": "Water Tera Shard"
+  },
+  {
+    "ja": "テラピースくさ",
+    "en": "Grass Tera Shard"
+  },
+  {
+    "ja": "テラピースでんき",
+    "en": "Electric Tera Shard"
+  },
+  {
+    "ja": "テラピースこおり",
+    "en": "Ice Tera Shard"
+  },
+  {
+    "ja": "テラピースかくとう",
+    "en": "Fighting Tera Shard"
+  },
+  {
+    "ja": "テラピースどく",
+    "en": "Poison Tera Shard"
+  },
+  {
+    "ja": "テラピースじめん",
+    "en": "Ground Tera Shard"
+  },
+  {
+    "ja": "テラピースひこう",
+    "en": "Flying Tera Shard"
+  },
+  {
+    "ja": "テラピースエスパー",
+    "en": "Psychic Tera Shard"
+  },
+  {
+    "ja": "テラピースむし",
+    "en": "Bug Tera Shard"
+  },
+  {
+    "ja": "テラピースいわ",
+    "en": "Rock Tera Shard"
+  },
+  {
+    "ja": "テラピースゴースト",
+    "en": "Ghost Tera Shard"
+  },
+  {
+    "ja": "テラピースドラゴン",
+    "en": "Dragon Tera Shard"
+  },
+  {
+    "ja": "テラピースあく",
+    "en": "Dark Tera Shard"
+  },
+  {
+    "ja": "テラピースはがね",
+    "en": "Steel Tera Shard"
+  },
+  {
+    "ja": "テラピースフェアリー",
+    "en": "Fairy Tera Shard"
+  }
+]
