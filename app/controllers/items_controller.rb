@@ -10,7 +10,7 @@ class ItemsController < ApplicationController
       response = JSON.parse(raw_response.body)
       @item = Item.new(item_id: response["id"], name: response["name"], image_url: response["sprites"]["default"])
     else
-      redirect_to new_item_path, notice: "#{raw_response.status}エラー！"
+      redirect_to items_path, notice: "#{raw_response.status}エラー！"
     end
   end
 
@@ -22,6 +22,13 @@ class ItemsController < ApplicationController
     else
       render :new
     end
+  end
+
+  def item_search
+    raw_response = Faraday.get "https://pokeapi.co/api/v2/item/#{params[:search]}"
+    response = JSON.parse(raw_response.body)
+    @item = Item.new(item_id: response["id"], name: response["name"], image_url: response["sprites"]["default"])
+    binding.pry
   end
 
   private
