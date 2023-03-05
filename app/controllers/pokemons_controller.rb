@@ -9,8 +9,24 @@ class PokemonsController < ApplicationController
     raw_response = Faraday.get "https://pokeapi.co/api/v2/pokemon/#{params[:search]}"
     if raw_response.status == 200
       response = JSON.parse(raw_response.body)
-      # Pokemonインスタンスを生成するようにします。
-      @pokemon = Pokemon.new(order: response["id"], name: response["name"], image_url: response["sprites"]["front_default"])
+
+      File.open("pokemon.json") do |file|
+
+        # JSONファイルを読み込む
+        json = JSON.load(file)
+
+        # ポケモン名の先頭を大文字にする
+        keyword = response["name"].capitalize
+
+        # JSONファイルの中から検索
+        result = json.select { |x| x["en"].include?(keyword) }
+
+        # 変数に代入
+        val = result[0]["ja"]
+
+        # Pokemonインスタンスを生成
+        @pokemon = Pokemon.new(order: response["id"], name: val, image_url: response["sprites"]["front_default"])
+      end
     else
       redirect_to new_pokemon_path, notice: "#{raw_response.status}エラー！"
     end
