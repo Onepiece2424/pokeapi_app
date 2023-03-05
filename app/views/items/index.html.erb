@@ -1,6 +1,6 @@
 <h1>Item</h1>
 <%= render "shared/item_search", { path: new_item_path } %>
-<div>
+<div class="main-item-content">
   <% if @items.present? %>
     <% @items.each do |item| %>
       <div style="display: inline-block;">
