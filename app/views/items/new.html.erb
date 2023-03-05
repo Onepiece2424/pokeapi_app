@@ -1,18 +1,18 @@
 <h1>Item</h1>
-<%= render "shared/itemsearch", { path: new_item_path } %>
+<%= render "shared/search", { path: new_item_path } %>
 <div>
   <% if @item.present? %>
     <table>
       <tr>
         <td>No.</td>
-        <td><%= @item["id"] %></td>
+        <td><%= @item.item_id %></td>
       </tr>
       <tr>
         <td>Name:</td>
-        <td><%= @item["name"] %></td>
+        <td><%= @item.name %></td>
       </tr>
     </table>
-    <%= image_tag(@item["sprites"]["default"], size: "100") %>
+    <%= image_tag(@item.image_url, size: "100") %>
   <% else %>
     <p>検索してね！</p>
   <% end %>
