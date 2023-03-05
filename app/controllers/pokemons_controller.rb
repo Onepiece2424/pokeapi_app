@@ -16,13 +16,14 @@ class PokemonsController < ApplicationController
     end
   end
 
+  # ポケモン名で検索
   def search
     @search = params[:search]
     File.open("pokemon.json") do |file|
       json = JSON.load(file)
       result = json.select { |x| x["ja"].include?(@search) }
       if result.present?
-        val = result[0]["en"].tap{ |s| s.sub!(s[0], s[0].downcase) }
+        val = result[0]["en"].downcase
         raw_response = Faraday.get "https://pokeapi.co/api/v2/pokemon/#{val}"
         raw_response.status == 200
         response = JSON.parse(raw_response.body)
