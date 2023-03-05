@@ -1,5 +1,5 @@
 <h1>Item</h1>
-<%= render "shared/search", { path: new_item_path } %>
+<%= render "shared/item_search", { path: new_item_path } %>
 <div>
   <% if @item.present? %>
   <%= render "shared/error_messages", { object: @item } %>
@@ -25,3 +25,5 @@
     <p>検索してね！</p>
   <% end %>
 </div>
+<br>
+<div><%= link_to "戻る", items_path %></diV>

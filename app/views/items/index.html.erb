@@ -1,5 +1,5 @@
 <h1>Item</h1>
-<%= render "shared/search", { path: new_item_path } %>
+<%= render "shared/item_search", { path: new_item_path } %>
 <div>
   <% if @items.present? %>
     <% @items.each do |item| %>
@@ -13,4 +13,4 @@
     <% end %>
   <% end %>
 </div>
-<div><%= link_to "トップページへ", root_path %></diV>
+<div><%= link_to "ポケモンページのトップへ", root_path %></diV>
