@@ -1,8 +1,7 @@
-<h3>Pokemon</h3>
-<div>「ポケモン名」を入力していください。</div>
-<br>
+<h1>Pokemon</h1>
 <%= render "shared/search", { path: search_path } %>
 <div>
+  <h3>ゲットしたポケモン</h3>
   <% if @pokemons.present? %>
     <% @pokemons.each do |pokemon| %>
       <div style="display: inline-block;">
