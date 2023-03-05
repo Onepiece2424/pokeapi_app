@@ -2,7 +2,6 @@
 <%= render "shared/search", { path: search_path } %>
 <div>
   <% if @pokemon.present? %>
-    <!-- 追加 -->
     <%= render "shared/error_messages", { object: @pokemon } %>
     <table>
       <tr>
