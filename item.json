@@ -1,55 +1,55 @@
 [
   {
     "ja": "むしよけスプレー",
-    "en": "repel"
+    "en": "Repel"
   },
   {
     "ja": "シルバースプレー",
-    "en": "super-repel"
+    "en": "Super Repel"
   },
   {
     "ja": "ゴールドスプレー",
-    "en": "max-repel"
+    "en": "Max Repel"
   },
   {
     "ja": "あなぬけのヒモ",
-    "en": "escape-rope"
+    "en": "Escape Rope"
   },
   {
     "ja": "くろいビードロ",
-    "en": "black-flute"
+    "en": "Black Flute"
   },
   {
     "ja": "しろいビードロ",
-    "en": "white-flute"
+    "en": "White Flute"
   },
   {
     "ja": "あさせのしお",
-    "en": "shoal-salt"
+    "en": "Shoal Salt"
   },
   {
     "ja": "あさせのかいがら",
-    "en": "shoal-shell"
+    "en": "Shoal Shell"
   },
   {
     "ja": "ハートのウロコ",
-    "en": "heart-scale"
+    "en": "Heart Scale"
   },
   {
     "ja": "あかいかけら",
-    "en": "red-shard"
+    "en": "Red Shard"
   },
   {
     "ja": "あおいかけら",
-    "en": "blue-shard"
+    "en": "Blue Shard"
   },
   {
     "ja": "きいろいかけら",
-    "en": "yellow-shard"
+    "en": "Yellow Shard"
   },
   {
     "ja": "みどりのかけら",
-    "en": "green-shard"
+    "en": "Green Shard"
   },
   {
     "ja": "がくしゅうそうち",
@@ -57,11 +57,11 @@
   },
   {
     "ja": "きのはこ",
-    "en": "normal-box"
+    "en": "Normal Box"
   },
   {
     "ja": "きりのはこ",
-    "en": "gorgeous-box"
+    "en": "Gorgeous Box"
   },
   {
     "ja": "おいしいシッポ",
@@ -866,5 +866,645 @@
   {
     "ja": "テラピースフェアリー",
     "en": "Fairy Tera Shard"
+  },
+  {
+    "ja": "ja",
+    "en": "en"
+  },
+  {
+    "ja": "ひかりのこな",
+    "en": "Bright Powder"
+  },
+  {
+    "ja": "せんせいのツメ",
+    "en": "Quick Claw"
+  },
+  {
+    "ja": "おうじゃのしるし",
+    "en": "King's Rock"
+  },
+  {
+    "ja": "ぎんのこな",
+    "en": "Silver Powder"
+  },
+  {
+    "ja": "おまもりこばん",
+    "en": "Amulet Coin"
+  },
+  {
+    "ja": "きよめのおふだ",
+    "en": "Cleanse Tag"
+  },
+  {
+    "ja": "けむりだま",
+    "en": "Smoke Ball"
+  },
+  {
+    "ja": "かわらずのいし",
+    "en": "Everstone"
+  },
+  {
+    "ja": "きあいのハチマキ",
+    "en": "Focus Band"
+  },
+  {
+    "ja": "しあわせタマゴ",
+    "en": "Lucky Egg"
+  },
+  {
+    "ja": "ピントレンズ",
+    "en": "Scope Lens"
+  },
+  {
+    "ja": "メタルコート",
+    "en": "Metal Coat"
+  },
+  {
+    "ja": "たべのこし",
+    "en": "Leftovers"
+  },
+  {
+    "ja": "りゅうのウロコ",
+    "en": "Dragon Scale"
+  },
+  {
+    "ja": "でんきだま",
+    "en": "Light Ball"
+  },
+  {
+    "ja": "やわらかいすな",
+    "en": "Soft Sand"
+  },
+  {
+    "ja": "かたいいし",
+    "en": "Hard Stone"
+  },
+  {
+    "ja": "きせきのタネ",
+    "en": "Miracle Seed"
+  },
+  {
+    "ja": "くろいメガネ",
+    "en": "Black Glasses"
+  },
+  {
+    "ja": "くろおび",
+    "en": "Black Belt"
+  },
+  {
+    "ja": "じしゃく",
+    "en": "Magnet"
+  },
+  {
+    "ja": "しんぴのしずく",
+    "en": "Mystic Water"
+  },
+  {
+    "ja": "するどいくちばし",
+    "en": "Sharp Beak"
+  },
+  {
+    "ja": "どくバリ",
+    "en": "Poison Barb"
+  },
+  {
+    "ja": "とけないこおり",
+    "en": "Never-Melt Ice"
+  },
+  {
+    "ja": "のろいのおふだ",
+    "en": "Spell Tag"
+  },
+  {
+    "ja": "まがったスプーン",
+    "en": "Twisted Spoon"
+  },
+  {
+    "ja": "もくたん",
+    "en": "Charcoal"
+  },
+  {
+    "ja": "りゅうのキバ",
+    "en": "Dragon Fang"
+  },
+  {
+    "ja": "ピンクのリボン",
+    "en": "Pink Bow"
+  },
+  {
+    "ja": "みずたまリボン",
+    "en": "Polkadot Bow"
+  },
+  {
+    "ja": "アップグレード",
+    "en": "Up-Grade"
+  },
+  {
+    "ja": "ラッキーパンチ",
+    "en": "Lucky Punch"
+  },
+  {
+    "ja": "メタルパウダー",
+    "en": "Metal Powder"
+  },
+  {
+    "ja": "ふといホネ",
+    "en": "Thick Club"
+  },
+  {
+    "ja": "ながねぎ",
+    "en": "Stick2-7\nLeek8"
+  },
+  {
+    "ja": "はかいのいでんし",
+    "en": ""
+  },
+  {
+    "ja": "ja",
+    "en": "en"
+  },
+  {
+    "ja": "しろいハーブ",
+    "en": "White Herb"
+  },
+  {
+    "ja": "きょうせいギプス",
+    "en": "Macho Brace"
+  },
+  {
+    "ja": "やすらぎのすず",
+    "en": "Soothe Bell"
+  },
+  {
+    "ja": "メンタルハーブ",
+    "en": "Mental Herb"
+  },
+  {
+    "ja": "こだわりハチマキ",
+    "en": "Choice Band"
+  },
+  {
+    "ja": "こころのしずく",
+    "en": "Soul Dew"
+  },
+  {
+    "ja": "しんかいのキバ",
+    "en": "Deep Sea Tooth"
+  },
+  {
+    "ja": "しんかいのウロコ",
+    "en": "Deep Sea Scale"
+  },
+  {
+    "ja": "シルクのスカーフ",
+    "en": "Silk Scarf"
+  },
+  {
+    "ja": "かいがらのすず",
+    "en": "Shell Bell"
+  },
+  {
+    "ja": "うしおのおこう",
+    "en": "Sea Incense"
+  },
+  {
+    "ja": "のんきのおこう",
+    "en": "Lax Incense"
+  },
+  {
+    "ja": "あかいバンダナ",
+    "en": "Red Scarf"
+  },
+  {
+    "ja": "あおいバンダナ",
+    "en": "Blue Scarf"
+  },
+  {
+    "ja": "ピンクのバンダナ",
+    "en": "Pink Scarf"
+  },
+  {
+    "ja": "みどりのバンダナ",
+    "en": "Green Scarf"
+  },
+  {
+    "ja": "きいろのバンダナ",
+    "en": "Yellow Scarf"
+  },
+  {
+    "ja": "べにいろのたま",
+    "en": "Red Orb"
+  },
+  {
+    "ja": "あいいろのたま",
+    "en": "Blue Orb"
+  },
+  {
+    "ja": "",
+    "en": ""
+  },
+  {
+    "ja": "ja",
+    "en": "en"
+  },
+  {
+    "ja": "ひのたまプレート",
+    "en": "Flame Plate"
+  },
+  {
+    "ja": "しずくプレート",
+    "en": "Splash Plate"
+  },
+  {
+    "ja": "いかずちプレート",
+    "en": "Zap Plate"
+  },
+  {
+    "ja": "みどりのプレート",
+    "en": "Meadow Plate"
+  },
+  {
+    "ja": "つららのプレート",
+    "en": "Icicle Plate"
+  },
+  {
+    "ja": "こぶしのプレート",
+    "en": "Fist Plate"
+  },
+  {
+    "ja": "もうどくプレート",
+    "en": "Toxic Plate"
+  },
+  {
+    "ja": "だいちのプレート",
+    "en": "Earth Plate"
+  },
+  {
+    "ja": "あおぞらプレート",
+    "en": "Sky Plate"
+  },
+  {
+    "ja": "ふしぎのプレート",
+    "en": "Mind Plate"
+  },
+  {
+    "ja": "たまむしプレート",
+    "en": "Insect Plate"
+  },
+  {
+    "ja": "がんせきプレート",
+    "en": "Stone Plate"
+  },
+  {
+    "ja": "もののけプレート",
+    "en": "Spooky Plate"
+  },
+  {
+    "ja": "りゅうのプレート",
+    "en": "Draco Plate"
+  },
+  {
+    "ja": "こわもてプレート",
+    "en": "Dread Plate"
+  },
+  {
+    "ja": "こうてつプレート",
+    "en": "Iron Plate"
+  },
+  {
+    "ja": "あやしいおこう",
+    "en": "Odd Incense"
+  },
+  {
+    "ja": "がんせきおこう",
+    "en": "Rock Incense"
+  },
+  {
+    "ja": "まんぷくおこう",
+    "en": "Full Incense"
+  },
+  {
+    "ja": "さざなみのおこう",
+    "en": "Wave Incense"
+  },
+  {
+    "ja": "おはなのおこう",
+    "en": "Rose Incense"
+  },
+  {
+    "ja": "こううんのおこう",
+    "en": "Luck Incense"
+  },
+  {
+    "ja": "きよめのおこう",
+    "en": "Pure Incense"
+  },
+  {
+    "ja": "プロテクター",
+    "en": "Protector"
+  },
+  {
+    "ja": "エレキブースター",
+    "en": "Electirizer"
+  },
+  {
+    "ja": "マグマブースター",
+    "en": "Magmarizer"
+  },
+  {
+    "ja": "あやしいパッチ",
+    "en": "Dubious Disc"
+  },
+  {
+    "ja": "れいかいのぬの",
+    "en": "Reaper Cloth"
+  },
+  {
+    "ja": "するどいツメ",
+    "en": "Razor Claw"
+  },
+  {
+    "ja": "するどいキバ",
+    "en": "Razor Fang"
+  },
+  {
+    "ja": "まんまるいし",
+    "en": "Oval Stone"
+  },
+  {
+    "ja": "こんごうだま",
+    "en": "Adamant Orb"
+  },
+  {
+    "ja": "しらたま",
+    "en": "Lustrous Orb"
+  },
+  {
+    "ja": "はっきんだま",
+    "en": "Griseous Orb"
+  },
+  {
+    "ja": "こうかくレンズ",
+    "en": "Wide Lens"
+  },
+  {
+    "ja": "ちからのハチマキ",
+    "en": "Muscle Band"
+  },
+  {
+    "ja": "きあいのタスキ",
+    "en": "Focus Sash"
+  },
+  {
+    "ja": "ものしりメガネ",
+    "en": "Wise Glasses"
+  },
+  {
+    "ja": "たつじんのおび",
+    "en": "Expert Belt"
+  },
+  {
+    "ja": "ひかりのねんど",
+    "en": "Light Clay"
+  },
+  {
+    "ja": "いのちのたま",
+    "en": "Life Orb"
+  },
+  {
+    "ja": "パワフルハーブ",
+    "en": "Power Herb"
+  },
+  {
+    "ja": "どくどくだま",
+    "en": "Toxic Orb"
+  },
+  {
+    "ja": "かえんだま",
+    "en": "Flame Orb"
+  },
+  {
+    "ja": "スピードパウダー",
+    "en": "Quick Powder"
+  },
+  {
+    "ja": "フォーカスレンズ",
+    "en": "Zoom Lens"
+  },
+  {
+    "ja": "メトロノーム",
+    "en": "Metronome"
+  },
+  {
+    "ja": "くろいてっきゅう",
+    "en": "Iron Ball"
+  },
+  {
+    "ja": "こうこうのしっぽ",
+    "en": "Lagging Tail"
+  },
+  {
+    "ja": "あかいいと",
+    "en": "Destiny Knot"
+  },
+  {
+    "ja": "くろいヘドロ",
+    "en": "Black Sludge"
+  },
+  {
+    "ja": "つめたいいわ",
+    "en": "Icy Rock"
+  },
+  {
+    "ja": "さらさらいわ",
+    "en": "Smooth Rock"
+  },
+  {
+    "ja": "あついいわ",
+    "en": "Heat Rock"
+  },
+  {
+    "ja": "しめったいわ",
+    "en": "Damp Rock"
+  },
+  {
+    "ja": "ねばりのかぎづめ",
+    "en": "Grip Claw"
+  },
+  {
+    "ja": "こだわりスカーフ",
+    "en": "Choice Scarf"
+  },
+  {
+    "ja": "くっつきバリ",
+    "en": "Sticky Barb"
+  },
+  {
+    "ja": "パワーリスト",
+    "en": "Power Bracer"
+  },
+  {
+    "ja": "パワーベルト",
+    "en": "Power Belt"
+  },
+  {
+    "ja": "パワーレンズ",
+    "en": "Power Lens"
+  },
+  {
+    "ja": "パワーバンド",
+    "en": "Power Band"
+  },
+  {
+    "ja": "パワーアンクル",
+    "en": "Power Anklet"
+  },
+  {
+    "ja": "パワーウエイト",
+    "en": "Power Weight"
+  },
+  {
+    "ja": "きれいなぬけがら",
+    "en": "Shed Shell"
+  },
+  {
+    "ja": "おおきなねっこ",
+    "en": "Big Root"
+  },
+  {
+    "ja": "こだわりメガネ",
+    "en": ""
+  },
+  {
+    "ja": "ja",
+    "en": "en"
+  },
+  {
+    "ja": "モンスターボール",
+    "en": "Poké Ball"
+  },
+  {
+    "ja": "スーパーボール",
+    "en": "Great Ball"
+  },
+  {
+    "ja": "ハイパーボール",
+    "en": "Ultra Ball"
+  },
+  {
+    "ja": "マスターボール",
+    "en": "Master Ball"
+  },
+  {
+    "ja": "サファリボール",
+    "en": "Safari Ball"
+  },
+  {
+    "ja": "ヘビーボール",
+    "en": "Heavy Ball"
+  },
+  {
+    "ja": "レベルボール",
+    "en": "Level Ball"
+  },
+  {
+    "ja": "ルアーボール",
+    "en": "Lure Ball"
+  },
+  {
+    "ja": "スピードボール",
+    "en": "Fast Ball"
+  },
+  {
+    "ja": "フレンドボール",
+    "en": "Friend Ball"
+  },
+  {
+    "ja": "ムーンボール",
+    "en": "Moon Ball"
+  },
+  {
+    "ja": "ラブラブボール",
+    "en": "Love Ball"
+  },
+  {
+    "ja": "コンペボール",
+    "en": "Sport Ball"
+  },
+  {
+    "ja": "ネットボール",
+    "en": "Net Ball"
+  },
+  {
+    "ja": "ダイブボール",
+    "en": "Dive Ball"
+  },
+  {
+    "ja": "ネストボール",
+    "en": "Nest Ball"
+  },
+  {
+    "ja": "リピートボール",
+    "en": "Repeat Ball"
+  },
+  {
+    "ja": "タイマーボール",
+    "en": "Timer Ball"
+  },
+  {
+    "ja": "ゴージャスボール",
+    "en": "Luxury Ball"
+  },
+  {
+    "ja": "プレミアボール",
+    "en": "Premier Ball"
+  },
+  {
+    "ja": "ヒールボール",
+    "en": "Heal Ball"
+  },
+  {
+    "ja": "ダークボール",
+    "en": "Dusk Ball"
+  },
+  {
+    "ja": "クイックボール",
+    "en": "Quick Ball"
+  },
+  {
+    "ja": "パークボール",
+    "en": "Park Ball"
+  },
+  {
+    "ja": "プレシャスボール",
+    "en": "Cherish Ball"
+  },
+  {
+    "ja": "ドリームボール",
+    "en": "Dream Ball"
+  },
+  {
+    "ja": "ウルトラボール",
+    "en": "Beast Ball"
+  },
+  {
+    "ja": "メガトンボール",
+    "en": "Leaden Ball"
+  },
+  {
+    "ja": "ギガトンボール",
+    "en": "Gigaton Ball"
+  },
+  {
+    "ja": "フェザーボール",
+    "en": "Feather Ball"
+  },
+  {
+    "ja": "ウイングボール",
+    "en": "Wing Ball"
+  },
+  {
+    "ja": "ジェットボール",
+    "en": ""
   }
 ]

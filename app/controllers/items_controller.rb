@@ -29,7 +29,6 @@ class ItemsController < ApplicationController
     File.open("item.json") do |file|
       json = JSON.load(file)
       result = json.select { |x| x["ja"].include?(@search) }
-
       if result.present?
         val = result[0]["en"].downcase.gsub(' ', '-')
         raw_response = Faraday.get "https://pokeapi.co/api/v2/item/#{val}"
