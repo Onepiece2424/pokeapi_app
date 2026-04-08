@@ -1,26 +1,26 @@
-FROM ruby:2.7.5
+FROM ruby:3.2
 
 # 必要なパッケージ
 RUN apt-get update -qq && apt-get install -y \
   nodejs \
-  yarn \
   build-essential \
   libpq-dev
 
 # 作業ディレクトリ
 WORKDIR /app
 
-# Gemfileをコピー
-COPY Gemfile Gemfile.lock ./
+# Gemfileのみコピー（←ここ修正）
+COPY Gemfile ./
 
-# bundle install
+# bundler
+RUN gem install bundler
+
+# bundle install（ここでGemfile.lockが生成される）
 RUN bundle install
 
 # アプリ全体をコピー
 COPY . .
 
-# ポート開放
 EXPOSE 3000
 
-# 起動コマンド
 CMD ["rails", "server", "-b", "0.0.0.0"]
